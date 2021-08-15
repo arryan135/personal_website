@@ -141,7 +141,7 @@
                         <div class="card-body">
                             <h5 class="card-title">I could be working for your organization!</h5>
                             <hr/>
-                            <p>I'm always on the lookout for new opportunities, espcially those pertaining to Software Engineering. If you find my skills relevant, feel free to <a href="#section-contact">contact me</a>!</p>
+                            <p>I'm always on the lookout for new opportunities, especially those pertaining to Software Engineering. If you find my skills relevant, feel free to <a href="#section-contact">contact me</a>!</p>
                         </div>
                     </div>
                 </div>
