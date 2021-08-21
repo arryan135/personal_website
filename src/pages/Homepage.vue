@@ -193,8 +193,7 @@
                             <h5 class="card-title">Wisconsin Institute for Discovery</h5>
                             <h6 class="card-subtitle mb-1">University of Wisconsin Madison</h6>
                             <h6 class="card-subtitle mb-2 text-muted">January 2020 - May 2020</h6>
-                            <p><span class="bold">Advisor:</span> <a href="http://pages.stat.wisc.edu/~karlrohe/index.html" target="_blank"
-                                                                     rel="noopener noreferrer"> Karl Rohe</a></p>
+                            <p><span class="bold">Advisor:</span> <a href="http://pages.stat.wisc.edu/~karlrohe/index.html" target="_blank" rel="noopener noreferrer"> Karl Rohe</a></p>
                             <hr/>
                             <p class="small">I worked with a team of undergraduates where we wanted to explore the relationship between median household income and voting in the 2016 presidential election across the US.</p>
                             <p class="small">This research made extensive use of R in conjunction with statistical learning concepts such as simple linear regression, multiple linear regression, cross-validation, Principal Component Analysis(PCA), and regression coefficients.</p>
