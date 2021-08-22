@@ -7,8 +7,8 @@
             <h1 class="font-monospace" id="helloworld" style="font-size: 112px; color: #FFF">hey there!</h1>
         </div>
         <nav class="navbar navbar-expand-xl navbar-light w-100" id="navbar" style="position: fixed; top: 0;
-    padding: 16px 0; background-color: #FFFFFF; z-index: 2048;
-    display: none;">
+            padding: 16px 0; background-color: #FFFFFF; z-index: 2048;
+            display: none;">
             <div class="container-fluid">
                 <p class="font-monospace h1 mb-0" style="font-size: 32px;">Aryan Malik</p>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-links"
