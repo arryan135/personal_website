@@ -216,8 +216,7 @@
                 <ul style="list-style: none; padding-left: 0;">
                     <li><a href="mailto:arryan@umich.edu" class="link-clean" target="_blank" rel="noopener noreferrer"><i class="bi-envelope"/> arryan@umich.edu</a></li>
                     <li><a href="https://github.com/arryan135" class="link-clean" target="_blank" rel="noopener noreferrer"><i class="bi-github"/> github.com/arryan135</a></li>
-                    <li><a href="https://www.linkedin.com/in/aryanmalik135" class="link-clean"
-                           target="_blank" rel="noopener noreferrer"><i class="bi-linkedin"/> my LinkedIn</a></li>
+                    <li><a href="https://www.linkedin.com/in/aryanmalik135" class="link-clean" target="_blank" rel="noopener noreferrer"><i class="bi-linkedin"/> my LinkedIn</a></li>
                 </ul>
             </div>
         </div>
