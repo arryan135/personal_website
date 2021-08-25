@@ -373,7 +373,6 @@
                     'eecs485':
                         `<span style="color: var(--rose-madder)">Upcoming Fall 2021!</span> Stay tuned!`
                 }
-
             }
         }
     }
