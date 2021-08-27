@@ -318,7 +318,6 @@
             };
 
             scrollHandler();
-
             document.addEventListener('scroll', scrollHandler);
         },
         data: function() {
