@@ -316,7 +316,6 @@
                     document.querySelector('#navbar-links').style.opacity = `1.0`;
                 }
             };
-
             scrollHandler();
             document.addEventListener('scroll', scrollHandler);
         },
