@@ -324,7 +324,6 @@
 
                 helperInterval: null,
                 cycle: 0,
-
                 descriptions: {
                     'eecs203':
                         "Foundations of theoretical computer science. Topics covered include: propositional and predicate logic, proof methods, set theory, functions, sequences and summations, introduction to algorithms, growth of functions and asymptotic notation, mathematical induction, counting, pigeonhole principle, permutations and combinations, relations and their properties, closure of relations, partial orderings, and introduction to graph theory.",
