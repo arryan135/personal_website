@@ -271,7 +271,6 @@
                 }
 
                 let scrollAmount = window.scrollY;
-
                 if (scrollAmount > 64) {
                     clearInterval(this.helperLightInterval);
                     document.getElementById(`scroll-down`).style.bottom = '32px';
