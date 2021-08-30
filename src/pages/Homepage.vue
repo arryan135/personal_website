@@ -277,7 +277,6 @@
                     document.getElementById(`scroll-down`).style.bottom = '32px';
                     document.getElementById(`scroll-down`).style.opacity = '0';
                 }
-
                 console.log(`scrollAmount ${scrollAmount}`);
                 // hello world label: 0 through 288
                 if (scrollAmount <= 288) {
